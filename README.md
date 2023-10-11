@@ -85,11 +85,12 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 #### passo 3 - Configuração do Banco de Dados
 
 1. Criando o Banco de Dados e as Tabelas no Banco
+
     a)Abra um terminal e acesse o PostgreSQL usando seu cliente preferido (por exemplo, psql, beekeeper, ou a extensão no VSCode Database Client);
      
     b)Para criar as tabelas necessárias, copie e/ou execute as tabelas do arquivo dump.sql, na pasta sql em seu client PostgreSQL;
 
-2. Populando a tabela Categorias
+3. Populando a tabela Categorias
      a)Copie e/ou execute as tabelas do arquivo inserir.sql, na pasta sql em seu client PostgreSQL;
 
 #### passo 4 - Configurando variáveis de ambiente
