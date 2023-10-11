@@ -1,6 +1,6 @@
 # API Dindin
 
-Trata-se de uma Restful API de uma aplicação de controle de despesas que permite que os usuários realizem operações como: cadastrar, logar, detalhar, e atualizar usuario;  também de cadastrar, listar, filtrar, deletar, emitir, detalhar, e atualizar transacao; e por fim, listar categorias. Os dados ficam persistidos em um banco de dados de forma local.
+Trata-se de uma Restful API de uma aplicação de controle de transações que permite que os usuários realizem operações como: cadastrar, logar, detalhar, e atualizar usuario;  também de cadastrar, listar, filtrar, deletar, emitir, detalhar, e atualizar transacao; e por fim, listar categorias. Os dados ficam persistidos em um banco de dados de forma local.
 Essa aplicação foi resultado de um desafio técnico proposto pela Cubos Academy, em parceria com Ifood, e foi desenvolvida em dupla com Eduardo Vinagre.
 
 ## Sumário
