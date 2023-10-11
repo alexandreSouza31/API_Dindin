@@ -1,4 +1,4 @@
-drop database dindin;
+DROP database IF EXISTS dindin;
 create database dindin;
 
 create table
